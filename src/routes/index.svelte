@@ -1,3 +1,7 @@
+<svelte:head>
+	<title>404 Not Found</title>
+</svelte:head>
+
 <div>
 	<h1 class="uppercase font-inconsolata font-bold text-2xl">404 Not Found</h1>
 
